@@ -1,0 +1,5 @@
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\StringFormatTest\bin\Debug\StringFormatTest.exe.config
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\StringFormatTest\bin\Debug\StringFormatTest.exe
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\StringFormatTest\bin\Debug\StringFormatTest.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\StringFormatTest\obj\Debug\StringFormatTest.exe
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\StringFormatTest\obj\Debug\StringFormatTest.pdb

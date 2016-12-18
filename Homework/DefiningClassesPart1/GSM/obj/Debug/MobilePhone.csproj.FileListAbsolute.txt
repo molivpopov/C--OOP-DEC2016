@@ -1,0 +1,5 @@
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\GSM\bin\Debug\MobilePhone.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\GSM\bin\Debug\MobilePhone.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\GSM\obj\Debug\MobilePhone.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\GSM\obj\Debug\MobilePhone.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\GSM\obj\Debug\MobilePhone.pdb
