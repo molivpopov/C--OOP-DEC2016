@@ -1,8 +1,0 @@
-C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\Test\bin\Debug\Test.exe.config
-C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\Test\bin\Debug\Test.exe
-C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\Test\bin\Debug\Test.pdb
-C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\Test\bin\Debug\MobilePhone.dll
-C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\Test\bin\Debug\MobilePhone.pdb
-C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
-C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\Test\obj\Debug\Test.exe
-C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart1\Test\obj\Debug\Test.pdb
