@@ -13,7 +13,13 @@
             this.PhoneNumber = number;
             this.DateOfCall = date;
             this.DurationOfCall = duration;
+            this.PriceOfMinuteCall = Constants.DefaultPriceOfMinuteCall;
         }
+        public Call(DateTime date, string number, TimeSpan duration, decimal price) : this(date, number, duration)
+        {
+            this.PriceOfMinuteCall = price;
+        }
+        public decimal PriceOfMinuteCall { get; private set; }
         public DateTime DateOfCall { get; private set; }
         public string PhoneNumber
         {
@@ -34,7 +40,7 @@
             {
                 var duration = this.DurationOfCall.TotalMinutes;
                 duration = duration < 1 ? 1 : duration; // you cannot make call less than 1 minute
-                return (decimal) (duration) * Constants.PriceOfMinuteCall;
+                return (decimal) (duration) * this.PriceOfMinuteCall;
             }
         }
 

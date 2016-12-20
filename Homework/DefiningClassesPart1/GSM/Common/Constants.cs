@@ -16,7 +16,7 @@
         public const int MinLenghtOfName = 3;
         public const int MaxLenghtOfName = 20;
         public const float CmPerInches = 2.54f;
-        public const decimal PriceOfMinuteCall = 0.37m;
+        public const decimal DefaultPriceOfMinuteCall = 0.37m;
         public const long OneSecond = 10000000;
 
     }

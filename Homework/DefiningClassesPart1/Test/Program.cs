@@ -25,7 +25,7 @@
             Console.WriteLine();
 
             // test of call
-            var call = new Call(new DateTime(2016, 12, 19, 16, 12, 15), "+359 2 729291", new TimeSpan(ticks * 60));
+            var call = new Call(new DateTime(2016, 12, 19, 16, 12, 15), "+359 2 729291", new TimeSpan(ticks * 60), 1.5m);
             Console.WriteLine(call.ToPrint());
             Console.WriteLine();
 
