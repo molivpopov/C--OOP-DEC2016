@@ -1,0 +1,7 @@
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Generic\bin\Debug\Generic.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Generic\bin\Debug\Generic.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Generic\bin\Debug\Commons.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Generic\bin\Debug\Commons.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Generic\obj\Debug\MyGeneric.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Generic\obj\Debug\Generic.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Generic\obj\Debug\Generic.pdb

@@ -1,0 +1,7 @@
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Matrix\bin\Debug\Matrix.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Matrix\bin\Debug\Matrix.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Matrix\bin\Debug\Commons.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Matrix\bin\Debug\Commons.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Matrix\obj\Debug\Matrix.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\DefiningClassesPart2\DefiningClassesPart2\Matrix\obj\Debug\Matrix.pdb
