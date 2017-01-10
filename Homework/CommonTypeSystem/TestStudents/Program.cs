@@ -76,9 +76,9 @@
 
             // 14. Extract students with two marks
             var marksTwo = new { FullName = students.FindAll(x => x.Marks.Contains(2)).ToFullName(), Marks = students.ToMarks(2) };
-            for (int i = 0; i < marksSix.FullName.Count; i++)
+            for (int i = 0; i < marksTwo.FullName.Count; i++)
             {
-                Console.WriteLine("\nstudent:{0} has the mark two:\n{1}", marksSix.FullName[i], string.Join(", ", marksSix.Marks[i]));
+                Console.WriteLine("\nstudent:{0} has the mark two:\n{1}", marksTwo.FullName[i], string.Join(", ", marksTwo.Marks[i]));
             }
 
 
@@ -87,6 +87,10 @@
             var studentLongestName = new Student();
             students.ForEach(x => { if (x.FirstName.Length > l) { l = x.FirstName.Length; studentLongestName = x; } });
             Console.WriteLine("\nthe student with the longest first name is:{0}", studentLongestName);
+
+
+            var longestNameWithExtendMethod = students.FindLOngestName();
+            Console.WriteLine("\nthe student with the longest first name finded with extend method is:{0}", longestNameWithExtendMethod);
 
         }
     }

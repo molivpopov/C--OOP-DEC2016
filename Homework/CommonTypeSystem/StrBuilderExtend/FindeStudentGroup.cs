@@ -28,6 +28,23 @@
 
             return res;
         }
+        public static T FindLOngestName<T>(this IEnumerable<T> list)
+            where T : INames, new()
+        {
+            int maxl = int.MinValue;
+            var res = new T();
+            foreach (var item in list)
+            {
+                if (maxl < item.FirstName.Length)
+                {
+                    maxl = item.FirstName.Length;
+                    res = item;
+                }
+                
+            }
+
+            return res;
+        }
         public static List<List<int>> ToMarks<T>(this IEnumerable<T> list, int mark)
             where T : INames
         {
