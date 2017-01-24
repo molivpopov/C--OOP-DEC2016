@@ -1,0 +1,15 @@
+CreateSeason 2016 2017 SoftwareAcademy
+CreateStudent Pesho Frontend
+CreateTrainer Cyku JS, C#, Haskell
+AddStudentToSeason Pesho 0
+AddTrainerToSeason Cyku 0
+CreateCourse 0 JavaScriptOOP 2 2017-01-24
+CreateLecture 0 0 Introduction 2017-01-25 Cyku
+CreateLecture 0 0 Functions 2017-01-25 Cyku
+CreateLectureResouce 0 0 0 video Intro https://www.youtube.com/watch?v=nhRJZ06JFxk
+CreateLectureResouce 0 0 1 homework Closures https://github.com/TelerikAcademy/JavaScript-OOP/tree/master/Topics/03.%20Closures-and-Scope/homework
+AddStudentToCourse Pesho 0 0 onsite
+CreateCourseResult 0 0 85 92 Pesho
+ListCoursesInSeason 0
+ListUsersInSeason 0
+Exit
