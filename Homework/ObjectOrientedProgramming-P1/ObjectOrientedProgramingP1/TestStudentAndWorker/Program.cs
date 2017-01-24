@@ -62,7 +62,7 @@
                 .OrderBy(x => x);
             Console.WriteLine("\nAll humen merged by converting to string:\n{0}", string.Join("\n", mergedListString));
 
-            // merge using down Casting
+            // merge using upcasting
             var mergedListCasting = new List<Human>();
             mergedListCasting.AddRange(students);
             mergedListCasting.AddRange(workers);

@@ -1,0 +1,7 @@
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\AnimalHierarchy\bin\Debug\AnimalHierarchy.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\AnimalHierarchy\bin\Debug\AnimalHierarchy.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\AnimalHierarchy\bin\Debug\SchoolClasses.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\AnimalHierarchy\bin\Debug\SchoolClasses.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\AnimalHierarchy\obj\Debug\AnimalHierarchy.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\AnimalHierarchy\obj\Debug\AnimalHierarchy.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\AnimalHierarchy\obj\Debug\AnimalHierarchy.pdb

@@ -1,0 +1,5 @@
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\SchoolClasses\bin\Debug\SchoolClasses.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\SchoolClasses\bin\Debug\SchoolClasses.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\SchoolClasses\obj\Debug\SchoolClasses.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\SchoolClasses\obj\Debug\SchoolClasses.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\SchoolClasses\obj\Debug\SchoolClasses.pdb

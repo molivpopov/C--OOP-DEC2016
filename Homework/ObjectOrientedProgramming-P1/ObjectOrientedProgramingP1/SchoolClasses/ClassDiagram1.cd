@@ -9,17 +9,17 @@
     <Lollipop Position="0.2" Collapsed="true" />
   </Class>
   <Class Name="SchoolClasses.Disciplines" Collapsed="true" BaseTypeListCollapsed="true">
-    <Position X="5.5" Y="1.75" Width="1.5" />
+    <Position X="5.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAABABAAAAAAAAQAAAAEAAAAAAAAAAAAIAA=</HashCode>
       <FileName>Disciplines.cs</FileName>
     </TypeIdentifier>
-    <Lollipop Position="0.2" Collapsed="true" />
+    <Lollipop Orientation="Left" Position="0.237" Collapsed="true" />
   </Class>
   <Class Name="SchoolClasses.Student" Collapsed="true">
     <Position X="0.75" Y="1.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAABAEAAAEAAAAAAAAAAAAAAAAAAQAAAAAIAA=</HashCode>
+      <HashCode>AAAAAAAAAAAEAAAEAAAAAAAAAAAAAAQAAAQAAAAAIAA=</HashCode>
       <FileName>Student.cs</FileName>
     </TypeIdentifier>
     <Lollipop Position="0.2" />
@@ -35,7 +35,7 @@
   <Class Name="SchoolClasses.Commons.Constants" Collapsed="true">
     <Position X="7.25" Y="0.5" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAgAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <HashCode>AAAAAAAAAAAAhAAAAAAQAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>Commons\Constants.cs</FileName>
     </TypeIdentifier>
   </Class>
@@ -55,7 +55,7 @@
     <Lollipop Position="0.2" />
   </Class>
   <Interface Name="SchoolClasses.Contracts.ICommantable" Collapsed="true">
-    <Position X="5.5" Y="2.75" Width="1.5" />
+    <Position X="3.5" Y="2.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAA=</HashCode>
       <FileName>Contracts\ICommantable.cs</FileName>

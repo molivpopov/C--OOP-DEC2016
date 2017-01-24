@@ -1,0 +1,10 @@
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\bin\Debug\TestStudentAndWorker.exe.config
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\bin\Debug\TestStudentAndWorker.exe
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\bin\Debug\TestStudentAndWorker.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\bin\Debug\SchoolClasses.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\bin\Debug\StudentsAndWorkers.dll
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\bin\Debug\SchoolClasses.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\bin\Debug\StudentsAndWorkers.pdb
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\obj\Debug\TestStudentAndWorker.csprojResolveAssemblyReference.cache
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\obj\Debug\TestStudentAndWorker.exe
+C:\Users\DPopov\Documents\C#-OOP-DEC2016\C--OOP-DEC2016\Homework\ObjectOrientedProgramming-P1\ObjectOrientedProgramingP1\TestStudentAndWorker\obj\Debug\TestStudentAndWorker.pdb
